@@ -1,1 +1,4 @@
-# swiftui-rotaion-animation
+#SwiftUI Rotation Animation 
+
+- Video demo
+![](gif/capture.gif)
